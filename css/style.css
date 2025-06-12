@@ -61,6 +61,13 @@ body {
             margin: 20px 0 20px 20px;
             border-radius: 10px;
         }
+        .img-Conrado {
+            display: block;
+            margin: 30px auto 30px auto;
+            width: 320px;      /* Puedes ajustar este valor según lo que prefieras */
+            max-width: 90%;
+            border-radius: 12px;
+        }
 
         /* Fuente personalizada */
         @font-face {
@@ -85,6 +92,19 @@ body {
 }
 #Medicos {
     font-family: 'EduVICWANTHandPre', Arial, sans-serif;
+    background-color: rgb(193, 199, 177);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    color: black;
+    text-align: center;
+}
+@font-face {
+    font-family: 'Cineastas';
+    src: url(../fonts/PlayfairDisplay-VariableFont_wght.ttf) format('truetype');
+}
+#Cineastas {
+    font-family: 'Cineastas', Arial, sans-serif;
     background-color: rgb(193, 199, 177);
     padding: 20px;
     border-radius: 10px;

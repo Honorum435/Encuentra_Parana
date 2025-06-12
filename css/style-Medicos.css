@@ -42,3 +42,10 @@ body {
     color: rgb(165, 53, 53);
     text-align: center;
 }
+.img-Titular {
+    display: block;
+    margin: 30px auto 30px auto;
+    width: 10px; /* Puedes ajustar este valor según lo que prefieras */
+    max-width: 40%;
+    border-radius: 12px;
+}

@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #a86969;
+    color: rgb(222, 225, 230);
+}
+.img-Titular {
+    display: block;
+    margin: 30px auto 30px auto;
+    width: 600px; /* Puedes ajustar este valor según lo que prefieras */
+    max-width: 60%;
+    border-radius: 12px;
+}
