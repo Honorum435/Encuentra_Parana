@@ -83,3 +83,12 @@ body {
     display: table;
     clear: both;
 }
+#Medicos {
+    font-family: 'EduVICWANTHandPre', Arial, sans-serif;
+    background-color: rgb(193, 199, 177);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    color: black;
+    text-align: center;
+}
